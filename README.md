@@ -3,10 +3,14 @@ Scratch API wrapper with support for almost all site features
 This library can set cloud variables, follow Scratchers, post comments and do so much more! It has special features that make it easy to transmit data through cloud variables.
 
 **Some functions require logging in to Scratch.**
+
 **You also need to have the coding language Python installed on your device.**
+
 *Download Python here if you don't have it: https://www.python.org/downloads/*
 
-The project is maintained by TimMcCool: https://scratch.mit.edu/users/TimMcCool/
+The project is maintained by Grisshink: 
+- https://scratch.mit.edu/users/ttt999/
+- https://scratch.mit.edu/users/Grisshink/
 
 [![PyPI status](https://img.shields.io/pypi/status/scratchattach.svg)](https://pypi.python.org/pypi/scratchattach/)
 [![PyPI download month](https://img.shields.io/pypi/dm/scratchattach.svg)](https://pypi.python.org/pypi/scratchattach/)
